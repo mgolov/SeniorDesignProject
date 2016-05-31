@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2937137E1CF499C000056AFB"
-               BuildableName = "generic.app"
-               BlueprintName = "generic"
-               ReferencedContainer = "container:generic.xcodeproj">
+               BuildableName = "HandShake.app"
+               BlueprintName = "HandShake"
+               ReferencedContainer = "container:HandShake.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2937137E1CF499C000056AFB"
-            BuildableName = "generic.app"
-            BlueprintName = "generic"
-            ReferencedContainer = "container:generic.xcodeproj">
+            BuildableName = "HandShake.app"
+            BlueprintName = "HandShake"
+            ReferencedContainer = "container:HandShake.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2937137E1CF499C000056AFB"
-            BuildableName = "generic.app"
-            BlueprintName = "generic"
-            ReferencedContainer = "container:generic.xcodeproj">
+            BuildableName = "HandShake.app"
+            BlueprintName = "HandShake"
+            ReferencedContainer = "container:HandShake.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2937137E1CF499C000056AFB"
-            BuildableName = "generic.app"
-            BlueprintName = "generic"
-            ReferencedContainer = "container:generic.xcodeproj">
+            BuildableName = "HandShake.app"
+            BlueprintName = "HandShake"
+            ReferencedContainer = "container:HandShake.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

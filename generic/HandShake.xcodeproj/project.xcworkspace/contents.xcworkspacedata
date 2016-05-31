@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:generic.xcodeproj">
+      location = "self:/Users/kianush/Desktop/SeniorDesignProject/generic/HandShake.xcodeproj">
    </FileRef>
 </Workspace>
