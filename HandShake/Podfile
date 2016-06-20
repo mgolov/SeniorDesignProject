@@ -1,0 +1,12 @@
+platform :ios, '9.0'
+use_frameworks!
+
+pod 'Firebase'
+pod 'Firebase/Database'
+#pod 'GeoFire', :git => 'https://github.com/firebase/geofire-objc.git'
+
+target 'HandShake' do
+
+
+end
+
