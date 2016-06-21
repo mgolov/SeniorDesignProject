@@ -12,6 +12,8 @@
 		2937138A1CF499C000056AFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 293713891CF499C000056AFB /* Assets.xcassets */; };
 		2937138D1CF499C000056AFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2937138B1CF499C000056AFB /* LaunchScreen.storyboard */; };
 		293713951CF49BD700056AFB /* icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 293713941CF49BD700056AFB /* icon.jpg */; };
+		BB074FCF1D198B7A00DC9512 /* iPhone-6-wallpaper-iOS8-Color-Red-2-Gold.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB074FCD1D198B7A00DC9512 /* iPhone-6-wallpaper-iOS8-Color-Red-2-Gold.jpg */; };
+		BB074FD01D198B7A00DC9512 /* HandShakeLaunchImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BB074FCE1D198B7A00DC9512 /* HandShakeLaunchImage@2x.png */; };
 		BD1731BF1D176E0B008E832D /* UserLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1731BE1D176E0B008E832D /* UserLocation.swift */; };
 		BD1731C11D17793F008E832D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BD1731C01D17793F008E832D /* GoogleService-Info.plist */; };
 		BD1731C71D178184008E832D /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BD1731C61D178184008E832D /* MapKit.framework */; };
@@ -30,6 +32,8 @@
 		2937138E1CF499C000056AFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		293713941CF49BD700056AFB /* icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = icon.jpg; path = ../icon.jpg; sourceTree = "<group>"; };
 		2A75906E39F71119C630B81B /* Pods_HandShake.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HandShake.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB074FCD1D198B7A00DC9512 /* iPhone-6-wallpaper-iOS8-Color-Red-2-Gold.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "iPhone-6-wallpaper-iOS8-Color-Red-2-Gold.jpg"; path = "../../iPhone-6-wallpaper-iOS8-Color-Red-2-Gold.jpg"; sourceTree = "<group>"; };
+		BB074FCE1D198B7A00DC9512 /* HandShakeLaunchImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "HandShakeLaunchImage@2x.png"; path = "../../HandShakeLaunchImage@2x.png"; sourceTree = "<group>"; };
 		BD1731BE1D176E0B008E832D /* UserLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserLocation.swift; sourceTree = "<group>"; };
 		BD1731C01D17793F008E832D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		BD1731C61D178184008E832D /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
@@ -52,6 +56,8 @@
 		293713761CF499C000056AFB = {
 			isa = PBXGroup;
 			children = (
+				BB074FCD1D198B7A00DC9512 /* iPhone-6-wallpaper-iOS8-Color-Red-2-Gold.jpg */,
+				BB074FCE1D198B7A00DC9512 /* HandShakeLaunchImage@2x.png */,
 				293713811CF499C000056AFB /* HandShake */,
 				293713801CF499C000056AFB /* Products */,
 				293713941CF49BD700056AFB /* icon.jpg */,
@@ -167,8 +173,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB074FD01D198B7A00DC9512 /* HandShakeLaunchImage@2x.png in Resources */,
 				293713951CF49BD700056AFB /* icon.jpg in Resources */,
 				BD1731CA1D1781FF008E832D /* Main.storyboard in Resources */,
+				BB074FCF1D198B7A00DC9512 /* iPhone-6-wallpaper-iOS8-Color-Red-2-Gold.jpg in Resources */,
 				2937138D1CF499C000056AFB /* LaunchScreen.storyboard in Resources */,
 				BD1731C11D17793F008E832D /* GoogleService-Info.plist in Resources */,
 				2937138A1CF499C000056AFB /* Assets.xcassets in Resources */,
@@ -253,7 +261,7 @@
 				BD1731C81D1781FF008E832D /* Base */,
 			);
 			name = Main.storyboard;
-			path = "../../../Find-my-friends-master/FindMyFriends";
+			path = "../../../../Documents/School/Semesters/Summer2016/ELEC5000/SeniorDesignProject-master/HandShake/HandShake";
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

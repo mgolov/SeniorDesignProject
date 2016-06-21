@@ -35,7 +35,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, MKMapViewDele
             }
         }
         
-        self.addObserversForAllUserLocations()
+     //   self.addObserversForAllUserLocations()
         
     }
 
@@ -54,14 +54,14 @@ class ViewController: UIViewController, CLLocationManagerDelegate, MKMapViewDele
     // CLL
     func onLocationAllowed() {
         if CLLocationManager.authorizationStatus() == .AuthorizedWhenInUse || CLLocationManager.authorizationStatus() == .AuthorizedAlways {
-            self.mapView.showsUserLocation = true
+     //       self.mapView.showsUserLocation = true
             self.onLocationUpdated()
         }
     }
     
     func onLocationUpdated() {
         self.zoomToUser()
-        self.uploadUserCoordinate(self.locationManager.location!.coordinate, deviceUuid: self.getDeviceUuid(), userName: self.userName)
+ //       self.uploadUserCoordinate(self.locationManager.location!.coordinate, deviceUuid: self.getDeviceUuid(), userName: self.userName)
         
     }
     
